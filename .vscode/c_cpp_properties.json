@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Mac-ARM64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "~/Library/Caches/node-gyp/**/include/node",
+                "~/.node-gyp/**/include/node"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
